@@ -1,0 +1,11 @@
+{
+  "src": "<url to the .zip file created by the release script>",
+  "name": "My Simple Audio Effect",
+  "raw_name": "score-nodes-my-audio-effect",
+  "version": "1.0",
+  "kind": "nodes",
+  "short": "Test audio effect node",
+  "long": "This addon provides an example audio effect",
+  "small": "https://raw.githubusercontent.com/OSSIA/score-addon-tutorial/master/Deployment/icon.png",
+  "key": "00000000-0000-0000-0000-000000000000"
+}
