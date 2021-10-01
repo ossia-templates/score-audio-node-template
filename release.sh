@@ -4,5 +4,5 @@ mkdir -p release
 
 cp -rf MyAudioEffect addon.json LICENSE release/
 
-mv release score-node-my-audio-effect
-7z a score-node-my-audio-effect.zip score-node-my-audio-effect
+mv release score-addon-my-audio-effect
+7z a score-addon-my-audio-effect.zip score-addon-my-audio-effect
